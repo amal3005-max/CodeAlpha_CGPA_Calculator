@@ -14,3 +14,8 @@ Features:
 Technology Used:
 - C++
 - Console-based application
+## Files
+- cgpa_calculator.cpp
+
+## How to Run
+Compile using any C++ compiler and execute.
